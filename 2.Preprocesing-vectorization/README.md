@@ -1,3 +1,6 @@
+For embeddings: 
+https://drive.google.com/drive/folders/1CcSkobpx9C1fDQXgeO3Zx93CH1BbmcjP?usp=sharing 
+
 # Título del Proyecto
 
 _Acá va un párrafo que describa lo que es el proyecto_

@@ -1,6 +1,7 @@
-# Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+# Procesamiento de las resoluciones
+
+En este repositorio se encuentra el código pertinente a la etapa de pre-procesamiento de datos, la cual corresponde a la extracción del texto de las resoluciones, extracción de la información del caso y la extracción de las leyes citadas.
 
 ## Comenzando 🚀
 
@@ -11,7 +12,13 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+
+- Standford Spanish Parts of Speech Tagger: https://drive.google.com/drive/folders/19RrbfgfiN9c2aejb6FHZX7WLMVzSm1w9?usp=sharing
+- nltk (3.5)
+- re (2.2.1)
+- xml
+- xlwt
+
 
 ```
 Da un ejemplo
@@ -98,8 +105,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
 * etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
