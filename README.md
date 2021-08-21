@@ -21,7 +21,7 @@ Este repositorio está dividido en tres secciones principales y una de exploraci
         * MLP
         * SVM
         * Random Forest
-Finalmente se tiene una sección de bonus que nos da un alcance de exploración de los datos: 4. Exploracion-data
+4. Exploracion-data: Finalmente se tiene una sección de bonus que nos da un alcance de exploración de los datos.
 
 
 
